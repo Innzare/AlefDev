@@ -2,6 +2,8 @@
 
 Front End application - User Info
 
+Deploy - [alef-dev.netlify.app](https://alef-dev.netlify.app/)
+
 ## Technologies used
 
 Frontend:
